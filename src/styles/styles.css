@@ -9,6 +9,7 @@
 
 .header {
   text-align: center;
+  align-self: start;
 }
 
 #map {
@@ -23,5 +24,8 @@
   height: 50%;
 }
 
+.row {
+  margin: 5px;
+}
 
 
